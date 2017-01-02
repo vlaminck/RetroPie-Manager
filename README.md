@@ -29,7 +29,9 @@ With Retropie-Manager you can
 
 ## RetroPie-Setup script
 
-Execute the RetroPie-Setup, choose "Manage packages" -> "Manage experimental packages" -> "retropie-manager".
+Execute the RetroPie-Setup, choose "Manage packages" -> "Manage experimental packages" -> "retropie-manager" -> "Install from source".
+
+Note: This will place the installation in `/opt/retropie/supplementary/retropie-manager/`. This is important to know for the **Usage** and **Autostart** sections below.
 
 ## Old Method
 
